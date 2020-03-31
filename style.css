@@ -1,0 +1,55 @@
+.imagem-carrossel-um {
+
+    object-fit: cover; /* propriedade que faz com que a imagem abrange o container sem distorcer a img */
+    object-position: 0 32%; /* muda a posição da imagem em x e y */
+    height: 500px;
+
+}
+
+.imagem-carrossel-dois {
+
+    object-fit: cover; /* propriedade que faz com que a imagem abrange o container sem distorcer a img */
+    object-position: 0 32%; /* muda a posição da imagem em x e y */
+    height: 500px;
+
+}
+
+.imagem-carrossel-tres {
+
+    object-fit: cover; /* propriedade que faz com que a imagem abrange o container sem distorcer a img */
+    object-position: 0 32%; /* muda a posição da imagem em x e y */
+    height: 500px;
+
+}
+
+.fonte-titulo{
+
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred!important;
+}
+
+nav {
+    background-color: rgb(233, 88, 31);
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+    
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover; /* propriedade que faz com que a imagem abrange o container sem distorcer a img */
+    height: 200px;
+}
+
+.card-largura {
+    max-width: 24rem;
+}
